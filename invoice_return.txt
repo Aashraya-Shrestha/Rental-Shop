@@ -1,0 +1,8 @@
+Company Name:The Rentals
+Name: asdfg
+Number: 76543
+Total Amount: $50.00
+Item: velvet cloth
+Brand: Saathi
+Date and Time: 2023-08-24 11:08:18
+

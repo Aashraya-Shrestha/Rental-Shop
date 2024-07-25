@@ -1,0 +1,5 @@
+velvet cloth,Saathi,$50,8
+microphone set,Audio Technica,$200,9
+disco light Set,Sonoff,$350,10
+speaker set,Dolby,$500,10
+dinner table,Panda Furnitures,$400,10

@@ -1,0 +1,8 @@
+Company Name: The Rentals
+Customer Number: 934805345
+Customer Name: Aashraya
+Item: microphone set
+Brand: Audio Technica
+Total Amount: $200.00
+Date and Time: 2024-07-25 13:16:11
+
